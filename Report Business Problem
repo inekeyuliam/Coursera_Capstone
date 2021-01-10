@@ -1,3 +1,12 @@
+INTODUCTION
+I am creating a hypothetical scenario for a concept that there may not be enough Indonesian Restaurants in Toronto Area. 
+Therefore it might be a great opportunity for an entrepreneur who is based in Canada.
+As Indonesian food is pretty popular among the Asian community, and the entrepreneur who is Indonesian but living in Canada might think of opening his business 
+in areas where the Asian community resides.
+With the purpose in mind, finding the location to open such a restaurant is one of the most important decisions for this entrepreneur and 
+I am designing this project to help him find the most suitable location.
+
+BUSINESS PROBLEM
 The objective of this capstone project is to find the most suitable location for the entrepreneur to open a new Indoensian Restaurant in Toronto, Canada.
 By using data science methods and tools along with machine learning algorithms such as clustering, this project aims to provide solutions to answer the business question: 
 In Toronto,if an entrepreneur wants to open an Indonesian Restaurant, where should they consider opening it?
